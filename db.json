@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "name": "Billow - Thiên Tướng Độ Ách",
+      "price": "54",
+      "image": "https://lienquan.garena.vn/wp-content/uploads/2025/01/59901.jpg",
+      "id": 1
+    },
+    {
+      "name": "Arum Vũ Khúc Thần Sứ",
+      "price": "6",
+      "image": "https://cellphones.com.vn/sforum/wp-content/uploads/2022/07/35-5.jpg",
+      "id": 2
+    },
+    {
+      "name": "Liliana - Tiêu thư anh đào",
+      "price": "1",
+      "image": "https://cellphones.com.vn/sforum/wp-content/uploads/2022/07/5-11.jpg",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "email": "anhem003300@gmail.com",
+      "password": "$2a$10$qbzNv3WGMuapvyrJiuoiLeGh7Pct6Qa9XPyVu2F2sCCF.hfGu49eW",
+      "id": 1
+    },
+    {
+      "email": "lam2005@gmail.com",
+      "password": "$2a$10$fOQbHSAz4918dWdi9gUy6eBoVDCo4.VfH2oxnc4gjOSsoeIfY23yq",
+      "id": 2
+    },
+    {
+      "email": "dungNgonLao@gmail.com",
+      "password": "$2a$10$BMnN/fiyEmXBwAyv30mi1ud4qwOgcOLdCa62I9dJsoF4u4S9wtPGC",
+      "id": 3
+    },
+    {
+      "email": "hieuxautrai@gmail.com",
+      "password": "$2a$10$s1A/hAR81rYIIVphagkFe.kGJRmlgfM9IUZKzywBMbioDkQvZJFk2",
+      "id": 4
+    },
+    {
+      "email": "quocanh205@gmail.com",
+      "password": "$2a$10$dqMrvgzqCgX3Esi5vQjHd.LZ54ye8pyNSUjeOrwini1GY.U5oLZv6",
+      "id": 5
+    }
+  ]
+}
